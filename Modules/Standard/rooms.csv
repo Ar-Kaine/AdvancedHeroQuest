@@ -1,0 +1,5 @@
+Table,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24
+# Doors,0,0,0,0,1,1,1,1,2,2,2,Special,,,,,,,,,,,,
+Room Door,0,0,0,0,0,0,1,1,1,1,1,1,,,,,,,,,,,,
+Type,Empty,Empty,Empty,Furnished,Furnished,Furnished,Furnished,Hazard,Hazard,Hazard,Lair,Lair,Furnished Lair,Furnished Lair,Quest,,,,,,,,,
+Furnishings,,Bed,Bed,Bed,Bed,Throne,Throne,Torture Rack,Cupboard,Bookcase,Table,Chimney,Alchemists Table,Wall,2 Pillars,Weapon Rack,Fireplace,Fireplace,Furnace,Furnace,Roll Twice,Roll Twice,Roll Twice,Roll Twice
