@@ -1,0 +1,5 @@
+Race,ws,bs,st,to,sp,br,iq,wo,fp,tr,faith,petty,basic,lore
+Priest,0,0,0,0,0,0,0,0,0,Blessings,2,,,
+Wardancer,0,-2,0,2,2,0,0,0,-1,"Paired Weapons, Flying Leap, Taunt, Feint, Concentrate, Berserk, Leaping",,,,
+Berserker,0,0,1,0,0,2,-2,0,0,Berserk,,,,
+Wizard,0,0,-1,0,0,0,0,0,0,Literate,,2,2,1
