@@ -1,11 +1,8 @@
 Table,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24
-Wandering Monster,,1,1,1,1,,,,,,,,,,,,,,,,,,1,
+Monster,,1,1,1,1,,,,,,,,,,,,,,,,,,1,
 Special Feature,,,,,,,1,1,,,,,,,,,,,,,,,,
 Special Doors,,,,,,,,,,,,,,,,,,,,1,,1,,
 Doors,,,,,,,,1,,,,,,,,1,1,1,1,,2,1,1,1
 Trap,,,,,,1,,,,,,,,,,,,,,,,,,1
 Sections,1,1,1,2,2,2,2,2,2,3,3,3,,,,,,,,,,,,
-Corridor End,,Sliding Stairs Down One Level,Stairs Down Two Levels,Dead End,Dead End,Dead End,Dead End,Dead End,Right Turn,Right Turn,Right Turn,T-Junction,T-Junction,T-Junction,Left Turn,Left Turn,Left Turn,Stairs Down,Stairs Down,Stairs Out,Stairs Up,Double Door,Special Doouble Door,Locked Double Door
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
+End,,Sliding Stairs Down One Level,Stairs Down Two Levels,Dead End,Dead End,Dead End,Dead End,Dead End,Right Turn,Right Turn,Right Turn,T-Junction,T-Junction,T-Junction,Left Turn,Left Turn,Left Turn,Stairs Down,Stairs Down,Stairs Out,Stairs Up,Double Door,Special Doouble Door,Locked Double Door

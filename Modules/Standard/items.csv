@@ -1,0 +1,24 @@
+Table,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24
+Jewels,50,50,50,80,80,80,90,100,110,120,Magic,Magic,,,,,,,,,,,,
+Magic Jewel,Small,Small,Small,Large,Large,Large,Clear,Fate,Fire,Shattering,Soul,Spell,,,,,,,,,,,,
+Scroll,1,1,1,1,1,1,2,2,3,4,Dispel,Dispel,,,,,,,,,,,,
+Ammo,1d12 Bolts,1d12 Bolts,2d12 bolts,1d12 arrows,1d12 arrows,1d12 arrows,2d12 arrows,Spear,Dagger,1d12 Darts,d12 Darts,1d12 Bullets,,,,,,,,,,,,
+Venom,Dwarves,Elves,Humans,Humans,Greenskins,Greenskins,Ogres,Animals,Undead,Daemons,Beasts,Skaven,,,,,,,,,,,,
+Venom Strength,Sleep,Sleep,Sleep,Mild,Mild,Mild,Mild,Mild,Mild,Death,Death,Death,,,,,,,,,,,,
+Weapon,,,,,,,,,,,,,,,,,,,,,,,,
+Ranged,,Pistol Cross,Pistol Cross,Pistol Cross,Pistol Cross,Heavy Cross,Heavy Cross,Heavy Cross,Short Bow,Short Bow,Light Cross,Bow,Bow,Bow,Light Cross,Short Bow,Sling,Long Bow,Long Bow,Long Bow,Powder Pistol,Powder Pistol,Powder Musket,Powder Musket
+Melee,,Greataxe,Greataxe,Greathammer,Greathammer,Greatsword,Greatsword,Polearm,Polearm,Flail,Rapier,Axe,Sword,Sword,Hammer,Dagger,Dagger,Spear,Thow Hammer,Staff,Staff,Jagged Sword,Jaged Axe,Knuckles
+Armour,,Mithril,Plate,Plate,Bracers,Padded,Buckler,Chain,Chain,Shield,Shield,Leather,Leather,Leather,Shield,Shield,Chain,Chain,Buckler,Padded,Bracers,Plate,Plate,Mithril
+Magic Item,,Miscellaneous,Miscellaneous,Miscellaneous,Container,Cloack,Cloack,Cloack,Necklace,Necklace,Armour,Melee,Magic Weapon,Ranged,Ammo,Ring,Ring,Ring,Wand,Wand,Wand,Robe,Talisman,Talisman
+Magic Weapon,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+Magic,,,,,,,,,,,,,,,,,,,,,,,,
+Potion,,,,,,,,,,,,,,,,,,,,,,,,
+Weapon,,,,,,,,,,,,,,,,,,,,,,,,
+Ammo,,,,,,,,,,,,,,,,,,,,,,,,
+Armour,,,,,,,,,,,,,,,,,,,,,,,,
+Items,,,,,,,,,,,,,,,,,,,,,,,,
+Scroll,,,,,,,,,,,,,,,,,,,,,,,,
